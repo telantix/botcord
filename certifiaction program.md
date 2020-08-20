@@ -1,2 +1,2 @@
-# test
-[test](https://www.example.com]
+# Certifaction Program in BotCord
+[Visit BotCord](https://botcord.gq/]
