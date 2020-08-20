@@ -8,8 +8,9 @@ BotCord has a new Certification Program now open to the public! There are 2 part
 ## Developer Certification
 If you want to be a certified developer on the platform, here is what you must have to even think about being tested for certification.
 
-+ Verified Discord Email
-+ 1 bot on the Discord server
++ Verified Email (We will verify)
++ 1 bot on the BotCord Discord server
++ Created 2 or more projects
 + You must be in the Discord server
 
 Once you meet the requirements, you must open a **ticket** in the Discord server. ([here](https://discord.com/channels/731647189079556097/746025954832285726)) Click on the **Self-Certication** Mail icon to start a ticket where a staff member will be with you & you will most likly be accepted for the role! Good job.
