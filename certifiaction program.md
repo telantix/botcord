@@ -1,5 +1,6 @@
 # Certification Program in BotCord
 [Visit BotCord](https://botcord.gq/)
+
 [BotCord Discord Server](https://discord.gg/YcxckD7)
 
 
