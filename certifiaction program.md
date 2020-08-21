@@ -18,6 +18,9 @@ Once you meet the requirements, you must open a **ticket** in the Discord server
 
 Now that your certified, you can open a ticket to certify your bot. ([here](https://discord.com/channels/@me/746168536078221352)) Then, a staff memeber will be with you to help **certifiy your bot**. Your bot has a better chance to be certified if they meet the requirments.
 
+
+Upon certifing yourself, you will get an award!
+
 ## Bot Certification
 If you want to be a certified developer on the platform, here is what you must have to even think about being tested for certification.
 
