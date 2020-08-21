@@ -9,7 +9,7 @@ BotCord has a new Certification Program now open to the public! There are 2 part
 ## Developer Certification
 If you want to be a certified developer on the platform, here is what you must have to even think about being tested for certification.
 
-+ Verified Email (We will verify)
++ Discord 2FA or verified BotCord email.
 + 1 bot on the BotCord Discord server
 + Created 2 or more projects
 + You must be in the Discord server
