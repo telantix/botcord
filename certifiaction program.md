@@ -18,16 +18,17 @@ Once you meet the requirements, you must open a **ticket** in the Discord server
 Now that your certified, you can open a ticket to certify your bot. ([here](https://discord.com/channels/731647189079556097/746025954832285726)) Then, a staff memeber will be with you to help **certifiy your bot**. Your bot has a better chance to be certified if they meet the requirments.
 
 ## Bot Certification
-### (You must be a certified devolper first!)
+### (You must be a certified developer first!)
 If you want to be a certified developer on the platform, here is what you must have to even think about being tested for certification.
 
 + 24/7 Uptime
 + No misleading content
-+ Bot in a minimun of 25 servers
++ Bot in a minimum of 25 servers
 
 Once you meet the requirements, you must open a **ticket** in the Discord server. ([here](https://discord.com/channels/731647189079556097/746025954832285726)) Click on the **Bot-Certication** Mail icon to start a ticket. Staff will help **certifiy your bot**. Your bot has a better chance to be certified if they meet the requirments listed above. You must be a certified developer to certify your bot. (Section Developer Certification)
 
 ### Bot Certification Perks
 + Special Role
 + Kick Duplicate Bots
++ Vanity URL
 + BETA: All permissions that your bot needs
